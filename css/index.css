@@ -3301,7 +3301,7 @@ blockquote footer cite:before {
 }
 #page-header.full_page #site-info {
   position: absolute;
-  top: 37%;
+  top: 50%;
   padding: 0 0.5rem;
   width: 100%;
 }
